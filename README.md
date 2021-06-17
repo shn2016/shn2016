@@ -1,18 +1,37 @@
-### Hi there 👋
+<h1 align='center'>
+   👋 Hi, this is Kai Gao
+</h1>
 
-<!--
-**shn2016/shn2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align='center'>
+  A Full Stack Developer in Melbourne, Australia
+</p>
 
-Here are some ideas to get you started:
+<div align='center'> 
+  <a href="https://www.linkedin.com/in/kaig-dev/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+  <a href="https://instagram.com/kai_camera">
+    <img src="https://img.shields.io/badge/-Instagram-aurora?style=flat&logo=Instagram&logoColor=white" />        
+  </a>&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/-shn2016-green?style=flat&logo=Wechat&logoColor=white" /> 
+</div>
 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
- 🔭 I’m currently working on Conopy
+#### 💬 Currently working on:
  
+- Renovation of my personal site: [kaig.dev](https://kaig.dev)
+- Development of my business site: [oksystems.com.au](http://oksystems.com.au)
+- MERN Stack Starter Tutorial
+ 
+#### 🤔 Planing to do:
+ 
+ - A Chinese Affiliate site using SSR (NextJS) 
+ - Restart my [Leetcode-Javascript](https://github.com/shn2016/leetcode-javascript) Journey
+
+
+#### 📫 Done in this year
+
+- [Find the Investor](https://findtheinvestor.com/)
+- [Conopy](https://conopy.com.au)
+
+
+
