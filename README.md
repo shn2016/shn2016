@@ -13,15 +13,18 @@
   <a href="https://instagram.com/kai_camera">
     <img src="https://img.shields.io/badge/-Instagram-aurora?style=flat&logo=Instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
+   <a href="https://medium.com/grow-with-me-at-ok-systems">
+    <img src="https://badges.aleen42.com/src/medium.svg" />        
+  </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-shn2016-green?style=flat&logo=Wechat&logoColor=white" /> 
 </div>
 
 #### 💬 Currently working on:
  
-- Renovation of my personal site: [kaig.dev](https://kaig.dev)
 - Development of my business site: [oksystems.com.au](http://oksystems.com.au)
-- MERN Stack Starter Tutorial
- 
+- Full Stack Blog at [Medium](https://medium.com/grow-with-me-at-ok-systems)
+
+
 #### 🤔 Planing to do:
  
  - A Chinese Affiliate site using SSR (NextJS) 
@@ -32,6 +35,8 @@
 
 - [Find the Investor](https://findtheinvestor.com/)
 - [Conopy](https://conopy.com.au)
+- Renovation of my portfolio: [kaig.dev](https://kaig.dev)
+
 
 
 
