@@ -21,22 +21,22 @@
 
 #### 💬 Currently working on:
  
-- Development of my business site: [oksystems.com.au](http://oksystems.com.au)
-- Full Stack Blog at [Medium](https://medium.com/grow-with-me-at-ok-systems)
-
+- [Medium](https://medium.com/grow-with-me-at-ok-systems) Blog
+- E-booking platform
+- [Leetcode-Javascript](https://github.com/shn2016/leetcode-javascript) 
 
 #### 🤔 Planing to do:
- 
- - A Chinese Affiliate site using SSR (NextJS) 
- - Restart my [Leetcode-Javascript](https://github.com/shn2016/leetcode-javascript) Journey
 
+- AWS Associate Developer
+- A Chinese Affiliate site using SSR (NextJS) 
+- SEO, Google Ads
 
 #### 📫 Done in this year
 
 - [Find the Investor](https://findtheinvestor.com/)
 - [Conopy](https://conopy.com.au)
 - Renovation of my portfolio: [kaig.dev](https://kaig.dev)
-
+- [oksystems.com.au](http://oksystems.com.au)
 
 
 
