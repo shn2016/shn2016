@@ -13,7 +13,7 @@
   <a href="https://instagram.com/kai_camera">
     <img src="https://img.shields.io/badge/-Instagram-aurora?style=flat&logo=Instagram&logoColor=white" />        
   </a>&nbsp;&nbsp;
-   <a href="https://medium.com/grow-with-me-at-ok-systems">
+   <a href="https://medium.com/ok-coder">
     <img src="https://badges.aleen42.com/src/medium.svg" />        
   </a>&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/-shn2016-green?style=flat&logo=Wechat&logoColor=white" /> 
@@ -21,15 +21,14 @@
 
 #### 💬 Currently working on:
  
-- [Medium](https://medium.com/grow-with-me-at-ok-systems) Blog
-- E-booking platform
+- [Medium](https://medium.com/ok-coder) Blog
 - [Leetcode-Javascript](https://github.com/shn2016/leetcode-javascript) 
 
 #### 🤔 Planing to do:
 
 - AWS Associate Developer
 - A Chinese Affiliate site using SSR (NextJS) 
-- SEO, Google Ads
+- E-booking platform
 
 #### 📫 Done in this year
 
