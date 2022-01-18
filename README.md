@@ -21,21 +21,22 @@
 
 #### 💬 Currently working on:
  
-- [Medium](https://medium.com/ok-coder) Blog
-- [Leetcode-Javascript](https://github.com/shn2016/leetcode-javascript) 
+- [Medium](https://medium.com/ok-coder) Blog : Learn from Writing
+- 
 
 #### 🤔 Planing to do:
 
-- AWS Associate Developer
-- A Chinese Affiliate site using SSR (NextJS) 
-- E-booking platform
+- React Native / Web3 / Vue / Lambda / NestJS / Storybook / k8s
+- At least one AWS Certificate
+- At least three production grade project.
+- An Affiliate site built with SSR (NextJS) 
+- Wind-surfing, if I got chance.
+- Melbourne Beach Side Cylcing.
+- Publish one npm package.
 
 #### 📫 Done in this year
 
-- [Find the Investor](https://findtheinvestor.com/)
-- [Conopy](https://conopy.com.au)
-- Renovation of my portfolio: [kaig.dev](https://kaig.dev)
-- [oksystems.com.au](http://oksystems.com.au)
+Nothing at the moment.
 
 
 
