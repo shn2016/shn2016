@@ -21,18 +21,11 @@
 
 #### 💬 Currently working on:
  
-- [Medium](https://medium.com/ok-coder) Blog : Learn from Writing
-- 
+
 
 #### 🤔 Planing to do:
 
-- React Native / Web3 / Vue / Lambda / NestJS / Storybook / k8s
-- At least one AWS Certificate
-- At least three production grade project.
-- An Affiliate site built with SSR (NextJS) 
-- Wind-surfing, if I got chance.
-- Melbourne Beach Side Cylcing.
-- Publish one npm package.
+
 
 #### 📫 Done in this year
 
