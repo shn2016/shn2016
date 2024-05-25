@@ -2,9 +2,10 @@
    👋 Hi, this is Kai Gao
 </h1>
 
-<p align='center'>
+<h3 align='center'>
   A Full Stack Developer in Melbourne, Australia
-</p>
+</h3>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shn2016" alt="shn2016" /> </p>
 
 <div align='center'> 
   <a href="https://www.linkedin.com/in/kaig-dev/">
@@ -30,6 +31,4 @@
 #### 📫 Done in this year
 
 Nothing at the moment.
-
-
 
